@@ -1,7 +1,8 @@
 repo_name: mcabreradev/voyager
 report_id: 7f7f25719b068ffc412ae06696ff1a48
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-14T15:30:18+00:00'
+timestamp: '2024-01-05T08:44:07+00:00'
 requested_by: matthewgross
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/mcabreradev/voyager
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,7 +27,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
-  detection_source: publishable/assets/lib/js/tinymce/tinymce.min.js
+  detection_source_url: https://github.com/mcabreradev/voyager/blob/master/publishable/assets/js/dropzone/dropzone.js
+  detection_source: publishable/assets/js/dropzone/dropzone.js
   last_updated_by: Tony Lea
   last_updated_on: 2016-11-04 01:27:42.000000000 Z
 - name: PHP
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/mcabreradev/voyager
   detection_source: Repo Metadata
 - name: Laravel
   description: A PHP Framework For Web Artisans
@@ -47,7 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/992/AcA2LnWL_400x400.jpg
-  detection_source_url: composer.json
+  detection_source_url: https://github.com/mcabreradev/voyager/blob/master/composer.json
   detection_source: composer.json
   last_updated_by: Mark Topper
   last_updated_on: 2017-04-01 08:05:07.000000000 Z
@@ -59,6 +63,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/305/KFgYaUkK.png
+  detection_source_url: https://github.com/mcabreradev/voyager/blob/master/composer.json
   detection_source: composer.json
   last_updated_by: Scott Larkin
   last_updated_on: 2017-02-17 18:34:05.000000000 Z
@@ -70,6 +75,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1446/8cyY6D_m.png
+  detection_source_url: https://github.com/mcabreradev/voyager/blob/master/publishable/assets/lib/js/ace/theme-eclipse.js
   detection_source: publishable/assets/lib/js/ace/theme-eclipse.js
   last_updated_by: Tony Lea
   last_updated_on: 2016-11-04 01:27:42.000000000 Z
@@ -81,6 +87,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mcabreradev/voyager
   detection_source: Repo Metadata
 - name: PHPUnit
   description: Testing framework for PHP
@@ -92,7 +99,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg
-  detection_source_url: composer.json
+  detection_source_url: https://github.com/mcabreradev/voyager/blob/master/composer.json
   detection_source: composer.json
   last_updated_by: Tony Lea
   last_updated_on: 2016-10-27 03:57:36.000000000 Z
@@ -105,6 +112,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/mcabreradev/voyager/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Mark Topper
   last_updated_on: 2016-12-06 07:08:32.000000000 Z
