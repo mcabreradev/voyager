@@ -3,10 +3,10 @@
 ## Tech Stack
 mcabreradev/voyager is built on the following main stack:
 
-- [Code Climate](https://codeclimate.com/) – Code Review
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [PHP](http://www.php.net/) – Languages
 - [Laravel](http://laravel.com/) – Frameworks (Full Stack)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Code Climate](https://codeclimate.com/) – Code Review
 - [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
 - [PHPUnit](https://phpunit.de/) – Testing Frameworks
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
@@ -19,10 +19,10 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 mcabreradev/voyager is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/305/KFgYaUkK.png' alt='Code Climate'/> [Code Climate](https://codeclimate.com/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg' alt='PHP'/> [PHP](http://www.php.net/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/992/AcA2LnWL_400x400.jpg' alt='Laravel'/> [Laravel](http://laravel.com/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/305/KFgYaUkK.png' alt='Code Climate'/> [Code Climate](https://codeclimate.com/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/1446/8cyY6D_m.png' alt='Eclipse'/> [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
 - <img width='25' height='25' src='https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg' alt='PHPUnit'/> [PHPUnit](https://phpunit.de/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
@@ -36,7 +36,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mcabreradev/voyager](https://github.com/mcabreradev/voyager)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|9<br/>Tools used|01/05/24 <br/>Report generated|
+|9<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
